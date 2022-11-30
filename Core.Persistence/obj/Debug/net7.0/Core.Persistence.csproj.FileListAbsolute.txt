@@ -1,0 +1,12 @@
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll
