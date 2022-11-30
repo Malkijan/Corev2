@@ -1,0 +1,12 @@
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/bin/Debug/net7.0/Core.Mailing.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/bin/Debug/net7.0/Core.Mailing.dll
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/bin/Debug/net7.0/Core.Mailing.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.dll
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/refint/Core.Mailing.dll
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/Core.Mailing.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Mailing/obj/Debug/net7.0/ref/Core.Mailing.dll

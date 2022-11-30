@@ -1,30 +1,18 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Persistence/Repositories/EfRepositoryBase.cs">
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Core.Mailing FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Persistence/Paging/Paginate.cs">
     <Files>
-      <File FileName="Core.Persistence/Dynamic/IQueryableDynamicFilterExtensions.cs" Line="50" Column="14" />
-      <File FileName="Core.Persistence/Paging/BasePageableModel.cs" Line="1" Column="1" />
-      <File FileName="Core.Persistence/Repositories/EfRepositoryBase.cs" Line="90" Column="69" />
-      <File FileName="Core.Persistence/Paging/IQueryablePaginateExtensions.cs" Line="1" Column="1" />
-      <File FileName="Core.Persistence/Repositories/IAsyncRepository.cs" Line="14" Column="79" />
-      <File FileName="Core.Persistence/Dynamic/Sort.cs" Line="7" Column="17" />
-      <File FileName="Core.Persistence/Dynamic/Filter.cs" Line="7" Column="17" />
+      <File FileName="Core.Persistence/Repositories/Entity.cs" />
+      <File FileName="Core.Persistence/Paging/Paginate.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="corePackages" expanded="True">
             <Node name="Core.Persistence" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Dynamic" expanded="True">
-                <Node name="Filter.cs" selected="True" />
-              </Node>
+              <Node name="Dynamic" expanded="True" />
               <Node name="Paging" expanded="True" />
               <Node name="Repositories" expanded="True" />
             </Node>
@@ -33,4 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
