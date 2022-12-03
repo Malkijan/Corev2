@@ -22,6 +22,7 @@
 			string senderEmail, string userName, string password,
 			bool autenticationRequired=false, string? dkimPrivateKey=null,
 			string? dkimSelector=null, string? domainName=null)
+
         {
             Server = server;
             Port = port;

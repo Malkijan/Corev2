@@ -7,6 +7,7 @@
 
 		public ToEmail()
 		{
+
 		}
 
         public ToEmail(string email, string fullName)

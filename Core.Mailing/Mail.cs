@@ -15,7 +15,6 @@ namespace Core.Mailing
 
 		public Mail()
 		{
-
 		}
 
         public Mail(string subject, string textBody, string htmlBody,

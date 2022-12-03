@@ -13,6 +13,7 @@ namespace Core.Mailing.MailKitImplementations
         private readonly MailSettings _mailSettings;
         private DkimSigner? _signer;
 
+
 		public MailKitMailService(IConfiguration configuration)
 		{
             _mailSettings = configuration.GetSection("MailSettings").Get<MailSettings>();
