@@ -19,7 +19,7 @@ namespace Core.Mailing
 
         public Mail(string subject, string textBody, string htmlBody,
 			AttachmentCollection? attachments, List<MailboxAddress> toList,
-			List<MailboxAddress>? ccList=null, List<MailboxAddress> bccList=null,
+			List<MailboxAddress>? ccList=null, List<MailboxAddress>? bccList=null,
 			string? unscribeLink=null)
         {
             Subject = subject;

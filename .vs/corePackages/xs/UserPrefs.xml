@@ -1,6 +1,4 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workbench ActiveDocument="Core.Mailing/MailKitImplementations/MailKitMailService.cs">
     <Files>
       <File FileName="Core.Mailing/Mail.cs" Line="17" Column="4" />
@@ -30,9 +28,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Core.CrossCuttingConcerns FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders />
 </Properties>

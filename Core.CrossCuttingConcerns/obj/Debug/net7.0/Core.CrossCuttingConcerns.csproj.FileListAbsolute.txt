@@ -1,0 +1,12 @@
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/refint/Core.CrossCuttingConcerns.dll
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/ugurmalki/Projects/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/ref/Core.CrossCuttingConcerns.dll
