@@ -18,6 +18,8 @@
     <None Remove="Logging\Serilog\ConfigurationModels\" />
     <None Remove="Logging\Serilog\Logger\" />
     <None Remove="Logging\Serilog\Messages\" />
+    <None Remove="Exceptions\Handlers\" />
+    <None Remove="Exceptions\HttpProblemDetails\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.4.0" />
@@ -33,5 +35,7 @@
     <Folder Include="Logging\Serilog\ConfigurationModels\" />
     <Folder Include="Logging\Serilog\Logger\" />
     <Folder Include="Logging\Serilog\Messages\" />
+    <Folder Include="Exceptions\Handlers\" />
+    <Folder Include="Exceptions\HttpProblemDetails\" />
   </ItemGroup>
 </Project>
