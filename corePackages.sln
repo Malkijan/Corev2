@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Mailing", "Core.Mailin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.CrossCuttingConcerns", "Core.CrossCuttingConcerns\Core.CrossCuttingConcerns.csproj", "{EAC97E64-BAFA-46A6-8BEF-63F6C92F3454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.ElasticSearch", "Core.ElasticSearch\Core.ElasticSearch.csproj", "{FFB846C7-2FAC-45C5-96D5-BCB443FE88A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EAC97E64-BAFA-46A6-8BEF-63F6C92F3454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC97E64-BAFA-46A6-8BEF-63F6C92F3454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC97E64-BAFA-46A6-8BEF-63F6C92F3454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB846C7-2FAC-45C5-96D5-BCB443FE88A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB846C7-2FAC-45C5-96D5-BCB443FE88A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB846C7-2FAC-45C5-96D5-BCB443FE88A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB846C7-2FAC-45C5-96D5-BCB443FE88A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/bin/Debug/net7.0/Core.ElasticSearch.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/bin/Debug/net7.0/Core.ElasticSearch.dll
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/bin/Debug/net7.0/Core.ElasticSearch.pdb
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.dll
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/refint/Core.ElasticSearch.dll
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/Core.ElasticSearch.pdb
+/Users/ugurmalki/Projects/corePackages/Core.ElasticSearch/obj/Debug/net7.0/ref/Core.ElasticSearch.dll
