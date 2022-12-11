@@ -1,0 +1,15 @@
+/Users/ugurmalki/Projects/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.dll
+/Users/ugurmalki/Projects/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.dll
+/Users/ugurmalki/Projects/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.CopyComplete
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.dll
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/refint/Core.Security.dll
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Security/obj/Debug/net7.0/ref/Core.Security.dll

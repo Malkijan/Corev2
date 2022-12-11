@@ -1,48 +1,52 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddleware.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.ElasticSearch/ElasticSearchManager.cs">
     <Files>
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/AuthorizationException.cs" Line="5" Column="63" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/BusinessException.cs" Line="5" Column="58" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddlewareExtensions.cs" Line="14" Column="1" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddleware.cs" Line="34" Column="10" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/NotFoundException.cs" Line="5" Column="58" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" Line="44" Column="1" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/ExceptionHandler.cs" Line="21" Column="4" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/BusinessProblemDetails.cs" Line="14" Column="18" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/AuthorizationProblemDetails.cs" Line="14" Column="18" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/InternalServerErrorProblemDetails.cs" Line="15" Column="18" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/NotFoundProblemDetails.cs" Line="14" Column="18" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ProblemDetailsExtensions.cs" Line="11" Column="48" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ValidationProblemDetails.cs" Line="10" Column="1" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/AuthorizationException.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/BusinessException.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddlewareExtensions.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddleware.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/NotFoundException.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/ExceptionHandler.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/BusinessProblemDetails.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/AuthorizationProblemDetails.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/InternalServerErrorProblemDetails.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/NotFoundProblemDetails.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ProblemDetailsExtensions.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ValidationProblemDetails.cs" />
+      <File FileName="Core.ElasticSearch/IElasticSearch.cs" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchResult.cs" />
+      <File FileName="Core.ElasticSearch/Models/IElasticSearchResult.cs" />
+      <File FileName="Core.ElasticSearch/Models/IndexModel.cs" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchInsertUpdateModel.cs" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchModel.cs" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchGetModel.cs" />
+      <File FileName="Core.ElasticSearch/Models/SearchParameters.cs" />
+      <File FileName="Core.ElasticSearch/Models/SearchByFieldParameters.cs" />
+      <File FileName="Core.ElasticSearch/Models/SearchByQueryParameters.cs" />
+      <File FileName="Core.ElasticSearch/ElasticSearchManager.cs" Line="17" Column="57" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchConfig.cs" />
+      <File FileName="Core.ElasticSearch/Models/ElasticSearchInsertManyModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="corePackages" expanded="True">
             <Node name="Core.CrossCuttingConcerns" expanded="True">
-              <Node name="Exceptions" expanded="True">
-                <Node name="Handlers" expanded="True" />
-                <Node name="HttpProblemDetails" expanded="True" />
-              </Node>
-              <Node name="Logging" expanded="True">
-                <Node name="Serilog" expanded="True">
-                  <Node name="Logger" expanded="True" />
-                  <Node name="Messages" expanded="True" />
-                </Node>
-              </Node>
+              <Node name="Exceptions" expanded="True" />
             </Node>
-            <Node name="Core.Mailing" expanded="True">
-              <Node name="MailKitImplementations" expanded="True" />
+            <Node name="Core.ElasticSearch" expanded="True">
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <Debugger.DebugSourceFolders />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Core.ElasticSearch FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Core.Security FirstBuild="True" />
 </Properties>
