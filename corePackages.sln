@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.ElasticSearch", "Core.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Security", "Core.Security\Core.Security.csproj", "{D44C1BA8-FB7E-4289-ADAC-B65957F79E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Application", "Core.Application\Core.Application.csproj", "{FD5D2425-C5CE-43F9-926C-3936146F144C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D44C1BA8-FB7E-4289-ADAC-B65957F79E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D44C1BA8-FB7E-4289-ADAC-B65957F79E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D44C1BA8-FB7E-4289-ADAC-B65957F79E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5D2425-C5CE-43F9-926C-3936146F144C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5D2425-C5CE-43F9-926C-3936146F144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5D2425-C5CE-43F9-926C-3936146F144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5D2425-C5CE-43F9-926C-3936146F144C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

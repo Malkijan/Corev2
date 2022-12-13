@@ -1,6 +1,5 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core.ElasticSearch/ElasticSearchManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Security/JWT/JwtHelper.cs">
     <Files>
       <File FileName="Core.CrossCuttingConcerns/Exceptions/AuthorizationException.cs" />
       <File FileName="Core.CrossCuttingConcerns/Exceptions/BusinessException.cs" />
@@ -25,28 +24,51 @@
       <File FileName="Core.ElasticSearch/Models/SearchParameters.cs" />
       <File FileName="Core.ElasticSearch/Models/SearchByFieldParameters.cs" />
       <File FileName="Core.ElasticSearch/Models/SearchByQueryParameters.cs" />
-      <File FileName="Core.ElasticSearch/ElasticSearchManager.cs" Line="17" Column="57" />
+      <File FileName="Core.ElasticSearch/ElasticSearchManager.cs" />
       <File FileName="Core.ElasticSearch/Models/ElasticSearchConfig.cs" />
       <File FileName="Core.ElasticSearch/Models/ElasticSearchInsertManyModel.cs" />
+      <File FileName="Core.Security/Dtos/UserForRegisterDto.cs" />
+      <File FileName="Core.Security/Dtos/UserForLoginDto.cs" />
+      <File FileName="Core.Security/EmailAuthenticator/IEmailAutenticatorHelper.cs" />
+      <File FileName="Core.Security/EmailAuthenticator/EmailAuthenticatorHelper.cs" />
+      <File FileName="Core.Security/Encryption/SecurityKeyHelper.cs" />
+      <File FileName="Core.Security/Entities/User.cs" />
+      <File FileName="Core.Security/Enums/AuthenticatorType.cs" />
+      <File FileName="Core.Security/Entities/UserOperationClaim.cs" />
+      <File FileName="Core.Security/Entities/OperationClaim.cs" />
+      <File FileName="Core.Security/Entities/RefreshToken.cs" />
+      <File FileName="Core.Security/Entities/EmailAuthenticator.cs" />
+      <File FileName="Core.Security/Entities/OtpAuthenticator.cs" />
+      <File FileName="Core.Security/Extensions/ClaimPrincipalExtensions.cs" />
+      <File FileName="Core.Security/Extensions/ClaimExtensions.cs" />
+      <File FileName="Core.Security/Hashing/HashingHelper.cs" />
+      <File FileName="Core.Security/JWT/ITokenHelper.cs" />
+      <File FileName="Core.Security/JWT/AccessToken.cs" />
+      <File FileName="Core.Security/JWT/TokenOptions.cs" />
+      <File FileName="Core.Security/JWT/JwtHelper.cs" Line="21" Column="20" />
+      <File FileName="Core.Security/OtpAuthenticator/IOtpAuthenticatorHelper.cs" />
+      <File FileName="Core.Security/OtpAuthenticator/OtpNet/OtpNetOtpAuthenticatorHelper.cs" />
+      <File FileName="Core.Security/SecurityServiceRegistration.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="corePackages" expanded="True">
-            <Node name="Core.CrossCuttingConcerns" expanded="True">
-              <Node name="Exceptions" expanded="True" />
-            </Node>
-            <Node name="Core.ElasticSearch" expanded="True">
-              <Node name="Models" expanded="True" />
+            <Node name="Core.Application" expanded="True" />
+            <Node name="Core.Security" expanded="True">
+              <Node name="JWT" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Core.Application FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Core.Security FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders />
 </Properties>

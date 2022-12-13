@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FluentValidation" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="MediatR" />
+    <None Remove="Microsoft.AspNetCore.Http.Abstractions" />
+    <None Remove="Microsoft.Extensions.Caching.Abstractions" />
+    <None Remove="Pipelines\" />
+    <None Remove="Requests\" />
+    <None Remove="Rules\" />
+    <None Remove="Pipelines\Authorization\" />
+    <None Remove="Pipelines\Caching\" />
+    <None Remove="Pipelines\Logging\" />
+    <None Remove="Pipelines\Performance\" />
+    <None Remove="Pipelines\Transaction\" />
+    <None Remove="Pipelines\Validation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.4.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.CrossCuttingConcerns\Core.CrossCuttingConcerns.csproj" />
+    <ProjectReference Include="..\Core.Security\Core.Security.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pipelines\" />
+    <Folder Include="Requests\" />
+    <Folder Include="Rules\" />
+    <Folder Include="Pipelines\Authorization\" />
+    <Folder Include="Pipelines\Caching\" />
+    <Folder Include="Pipelines\Logging\" />
+    <Folder Include="Pipelines\Performance\" />
+    <Folder Include="Pipelines\Transaction\" />
+    <Folder Include="Pipelines\Validation\" />
+  </ItemGroup>
+</Project>
