@@ -1,0 +1,15 @@
+/Users/ugurmalki/Projects/corePackages/Core.Test/bin/Debug/net7.0/Core.Test.deps.json
+/Users/ugurmalki/Projects/corePackages/Core.Test/bin/Debug/net7.0/Core.Test.dll
+/Users/ugurmalki/Projects/corePackages/Core.Test/bin/Debug/net7.0/Core.Test.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Test/bin/Debug/net7.0/Core.Persistence.dll
+/Users/ugurmalki/Projects/corePackages/Core.Test/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.csproj.AssemblyReference.cache
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.AssemblyInfoInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.AssemblyInfo.cs
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.csproj.CoreCompileInputs.cache
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.csproj.CopyComplete
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.dll
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/refint/Core.Test.dll
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/Core.Test.pdb
+/Users/ugurmalki/Projects/corePackages/Core.Test/obj/Debug/net7.0/ref/Core.Test.dll

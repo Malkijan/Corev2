@@ -1,69 +1,21 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Security/JWT/JwtHelper.cs">
+  <MonoDevelop.Ide.ItemProperties.Core.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Test/Helpers/MockRepositoryHelper.cs">
     <Files>
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/AuthorizationException.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/BusinessException.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddlewareExtensions.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddleware.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/NotFoundException.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/ExceptionHandler.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/BusinessProblemDetails.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/AuthorizationProblemDetails.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/InternalServerErrorProblemDetails.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/NotFoundProblemDetails.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ProblemDetailsExtensions.cs" />
-      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ValidationProblemDetails.cs" />
-      <File FileName="Core.ElasticSearch/IElasticSearch.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchResult.cs" />
-      <File FileName="Core.ElasticSearch/Models/IElasticSearchResult.cs" />
-      <File FileName="Core.ElasticSearch/Models/IndexModel.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchInsertUpdateModel.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchModel.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchGetModel.cs" />
-      <File FileName="Core.ElasticSearch/Models/SearchParameters.cs" />
-      <File FileName="Core.ElasticSearch/Models/SearchByFieldParameters.cs" />
-      <File FileName="Core.ElasticSearch/Models/SearchByQueryParameters.cs" />
-      <File FileName="Core.ElasticSearch/ElasticSearchManager.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchConfig.cs" />
-      <File FileName="Core.ElasticSearch/Models/ElasticSearchInsertManyModel.cs" />
-      <File FileName="Core.Security/Dtos/UserForRegisterDto.cs" />
-      <File FileName="Core.Security/Dtos/UserForLoginDto.cs" />
-      <File FileName="Core.Security/EmailAuthenticator/IEmailAutenticatorHelper.cs" />
-      <File FileName="Core.Security/EmailAuthenticator/EmailAuthenticatorHelper.cs" />
-      <File FileName="Core.Security/Encryption/SecurityKeyHelper.cs" />
-      <File FileName="Core.Security/Entities/User.cs" />
-      <File FileName="Core.Security/Enums/AuthenticatorType.cs" />
-      <File FileName="Core.Security/Entities/UserOperationClaim.cs" />
-      <File FileName="Core.Security/Entities/OperationClaim.cs" />
-      <File FileName="Core.Security/Entities/RefreshToken.cs" />
-      <File FileName="Core.Security/Entities/EmailAuthenticator.cs" />
-      <File FileName="Core.Security/Entities/OtpAuthenticator.cs" />
-      <File FileName="Core.Security/Extensions/ClaimPrincipalExtensions.cs" />
-      <File FileName="Core.Security/Extensions/ClaimExtensions.cs" />
-      <File FileName="Core.Security/Hashing/HashingHelper.cs" />
-      <File FileName="Core.Security/JWT/ITokenHelper.cs" />
-      <File FileName="Core.Security/JWT/AccessToken.cs" />
-      <File FileName="Core.Security/JWT/TokenOptions.cs" />
-      <File FileName="Core.Security/JWT/JwtHelper.cs" Line="21" Column="20" />
-      <File FileName="Core.Security/OtpAuthenticator/IOtpAuthenticatorHelper.cs" />
-      <File FileName="Core.Security/OtpAuthenticator/OtpNet/OtpNetOtpAuthenticatorHelper.cs" />
-      <File FileName="Core.Security/SecurityServiceRegistration.cs" />
+      <File FileName="Core.Test/Helpers/MockRepositoryHelper.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="corePackages" expanded="True">
-            <Node name="Core.Application" expanded="True" />
-            <Node name="Core.Security" expanded="True">
-              <Node name="JWT" expanded="True" />
+            <Node name="Core.Test" expanded="True">
+              <Node name="Helpers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Core.Application FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
